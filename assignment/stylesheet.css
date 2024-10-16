@@ -11,5 +11,6 @@ main {
 
 body {
    margin: 0;
-    
+   background-repeat: repeat;
+   background-image: url(record.png); 
 }
