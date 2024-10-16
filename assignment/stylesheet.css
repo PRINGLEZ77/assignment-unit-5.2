@@ -1,0 +1,15 @@
+header {
+    background-color: black;
+    color: lightcoral ;
+    text-align: center;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+}
+
+body {
+   margin: 0;
+    
+}
